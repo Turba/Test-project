@@ -1,9 +1,0 @@
-Create public object "Рама"
-Create public object "Спусковой крючок"
-Create public object "Ствол"
-Create public object "Рукоять"
-
-Create private object "Возвратная пружина"
-Create private object "Выбрасыватель"
-Create private object "Ударно-спусковой механизм"
-Create private object "Завторная задержка"
