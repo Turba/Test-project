@@ -1,5 +1,3 @@
-one = gets.chomp.to_i
-two = gets.chomp.to_i
-answer = one + two
+answer = method1 + method2
 puts answer
 puts 'hello'
